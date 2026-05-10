@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Привет, я Андрей
 
-<!--
-**ganeevandrej/ganeevandrej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend разработчик, развивающийся в веб-разработке.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Технологии
+
+**Frontend:**
+- React
+- TypeScript
+- JavaScript
+- HTML / CSS
+
+**Backend:**
+- Node.js
+- PHP (базовый опыт)
+
+**Инструменты:**
+- Git / GitHub
+- REST API
+- Vite / Webpack
+- SQL / PostgreSQL (основы)
+
+---
