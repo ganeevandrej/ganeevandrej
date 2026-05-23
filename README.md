@@ -1,20 +1,25 @@
-👋 Привет, я Андрей
-Frontend разработчик, развивающийся в веб-разработке.
+# 👋 Привет, я Андрей
 
-🛠️ Технологии
-Frontend:
+Frontend-разработчик с опытом коммерческой разработки на React / Next.js / TypeScript.
 
-React
-TypeScript
-JavaScript
-HTML / CSS
-Backend:
+Работал над enterprise- и product-проектами: финтех-платформами, SPA-системами и Telegram Mini Apps.  
+Интересуюсь frontend-архитектурой, производительностью, DX и развитием production-приложений.
 
-Node.js
-PHP (базовый опыт)
-Инструменты:
+## ⚙️ Основной стек
 
-Git / GitHub
-REST API
-Vite / Webpack
-SQL / PostgreSQL (основы)
+- React / Next.js
+- TypeScript
+- Redux Toolkit / RTK Query
+- Prisma / MySQL
+- Jest
+- Vite / Webpack
+- Docker
+- GitHub Actions
+
+## 🚀 Сейчас интересуюсь
+
+- Telegram Mini Apps
+- Frontend architecture
+- Performance optimization
+- Monorepo & DX
+- Production-grade frontend systems
