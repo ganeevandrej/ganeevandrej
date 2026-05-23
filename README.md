@@ -1,25 +1,20 @@
-# 👋 Привет, я Андрей
-
+👋 Привет, я Андрей
 Frontend разработчик, развивающийся в веб-разработке.
 
----
+🛠️ Технологии
+Frontend:
 
-## 🛠️ Технологии
+React
+TypeScript
+JavaScript
+HTML / CSS
+Backend:
 
-**Frontend:**
-- React
-- TypeScript
-- JavaScript
-- HTML / CSS
+Node.js
+PHP (базовый опыт)
+Инструменты:
 
-**Backend:**
-- Node.js
-- PHP (базовый опыт)
-
-**Инструменты:**
-- Git / GitHub
-- REST API
-- Vite / Webpack
-- SQL / PostgreSQL (основы)
-
----
+Git / GitHub
+REST API
+Vite / Webpack
+SQL / PostgreSQL (основы)
